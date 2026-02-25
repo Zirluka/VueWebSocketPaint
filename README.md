@@ -8,3 +8,5 @@ before use it you need to start both servers!
 `node server.js` for backend
 
 ### That's all!
+
+# Have fun!
